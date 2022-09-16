@@ -37,7 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		SK Technologies, 
 		Marutha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9494814378 +91 9441340858
+		+91-9494814378 +91 9441340859
 		sktechnologiesadl@gmail.com
 		<br>
 		<a href="mailto:sktechnologiesadl@gmail.com">Mail to SK Technologies</a>
