@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.169.28:8081/repository/tata-release/</url>
+	      <url>http://65.1.86.110:8081/repository/tata-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.169.28:8081/repository/tata-snapshot/</url>
+	      <url>http://65.1.86.110:8081/repository/tata-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
